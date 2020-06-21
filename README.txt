@@ -1,8 +1,8 @@
-———————————————————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 
 Scientific modelling
 
-———————————————————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 
 Several models were developed to study the dynamics, motion and physics of them.
 
@@ -24,8 +24,8 @@ Several models were developed to study the dynamics, motion and physics of them.
 - soliton_model
 	- Simulates the physics of solitons, showing their unique properties with animations and calculations of their properties.
 
-———————————————————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 
 Contact details:
 
-- kelvin.chan14@imperial.ac.uk
+- kelvin.chan14@alumni.imperial.ac.uk
